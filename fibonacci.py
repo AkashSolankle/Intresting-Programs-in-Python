@@ -3,8 +3,8 @@
 # change this value for a different result
 nterms = 10
 
-# uncomment to take input from the user
-#nterms = int(input("How many terms? "))
+
+
 
 # first two terms
 n1 = 0
